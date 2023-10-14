@@ -4,21 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32aceba9-465d-42af-9df3-70a360fc5efe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/primeiroProjeto.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Condicional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JogoAdivinhacao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Leitura.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OutroLoop.java" afterDir="false" />
+    <list default="true" id="32aceba9-465d-42af-9df3-70a360fc5efe" name="Changes" comment="Curso Alura &quot;Java: Criando sua Primeira Aplicação&quot; - https://cursos.alura.com.br/course/java-criando-primeira-aplicacao">
+      <change afterPath="$PROJECT_DIR$/src/DesafioAlura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,9 +46,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.JogoAdivinhacao">
-    <configuration name="Condicional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Condicional" />
+  <component name="RunManager" selected="Application.DesafioAlura">
+    <configuration name="DesafioAlura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DesafioAlura" />
       <module name="primeiroProjeto" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,11 +84,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DesafioAlura" />
         <item itemvalue="Application.JogoAdivinhacao" />
         <item itemvalue="Application.OutroLoop" />
         <item itemvalue="Application.Loop" />
         <item itemvalue="Application.Leitura" />
-        <item itemvalue="Application.Condicional" />
       </list>
     </recent_temporary>
   </component>
@@ -113,6 +101,14 @@
       <option name="presentableId" value="Default" />
       <updated>1697037308558</updated>
     </task>
+    <task id="LOCAL-00001" summary="Curso Alura &quot;Java: Criando sua Primeira Aplicação&quot; - https://cursos.alura.com.br/course/java-criando-primeira-aplicacao">
+      <created>1697245848424</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1697245848424</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,6 +121,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Curso Alura &quot;Java: Criando sua Primeira Aplicação&quot; - https://cursos.alura.com.br/course/java-criando-primeira-aplicacao" />
+    <option name="LAST_COMMIT_MESSAGE" value="Curso Alura &quot;Java: Criando sua Primeira Aplicação&quot; - https://cursos.alura.com.br/course/java-criando-primeira-aplicacao" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
